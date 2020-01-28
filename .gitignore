@@ -1,0 +1,5 @@
+.idea/
+runs/
+venv/
+data/
+**.npz

@@ -1,0 +1,4 @@
+torch
+gym
+tensorflow
+setuptools>=45.1.0
